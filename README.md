@@ -225,7 +225,7 @@ Below is a description of the actors and use cases for the booking management sy
     * Process Payment
     * Refund Payment
 
-**(Link to the diagram after you export it)**
+**[Booking System Use Case](https://github.com/kingfetson/requirement-analysis/blob/main/diagram-export-5-7-2025-11_47_35-AM.png)**
 
 ## Acceptance Criteria
 
